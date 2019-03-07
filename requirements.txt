@@ -6,4 +6,4 @@ python-decouple
 python-dotenv 
 scikit-learn 
 gunicorn 
-python_version == 3.5
+python
